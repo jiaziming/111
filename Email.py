@@ -1,10 +1,11 @@
 #!/usr/bin/python
 
 
-import smtplib
-from email.mime.multipart import MIMEMultipart
+#import smtplib
+#from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from email.header import Header
+
 
 
 mail_host = ''
